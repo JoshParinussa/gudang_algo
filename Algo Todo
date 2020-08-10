@@ -1,0 +1,16 @@
+(v) 1. Mampu mencatat daftar barang di Gudang
+(v) 2. Penambahan stok oleh supplier
+(v) 3. Pengurangan stok oleh distributor
+(v) 4. Tracking perubahan status pada barang
+
+Demi mempermudah laporan perusahaan terebut, database perlu ditambahkan beberapa view yang mampu menampilkan informasi sebagai berikut :
+5. Jumlah kuantitas masuk, keluar dan sisa per barang per bulan nya.
+6. Rata-rata jumlah barang masuk per produk per supplier
+
+7. Perusahaan ingin menampilkan semua daftar barang di sebuah halaman website sederhana, kemudian terdapat sebuah action button jika diklik akan menampilkan detail barang, dan history dari barang tersebut.
+
+8. Ketentuan dalam pembuatan web sederhana :
+    -JQuery.
+    -Boostrap.
+    -Datatable.
+    -Request menggunakan AJAX dan terintegrasi dengan API sederhana.
